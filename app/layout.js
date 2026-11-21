@@ -1,0 +1,1 @@
+import './style.css';export const metadata={title:'MentorLagbe',description:'Find your next learning opportunity'};export default function Layout({children}){return <html lang="en"><body>{children}</body></html>}
